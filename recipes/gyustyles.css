@@ -1,0 +1,26 @@
+.gyu {
+    color: purple;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.itta {
+    height: 400px;
+    width: auto;
+}
+
+button {
+    background-color: lavender;
+    font-size: 16px;
+}
+
+h3 {
+    color: red;
+}
+
+.gyuu {
+    height: 600px;
+    width: auto;
+}
