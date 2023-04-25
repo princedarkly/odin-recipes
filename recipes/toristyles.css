@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tori {
+    color: rgb(231, 118, 12)
+}
+
+button {
+    background-color: rgb(231, 118, 12);
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+.itta {
+    height: 300px;
+    width: auto;
+}
+
+h3 {
+    color: red;
+}
