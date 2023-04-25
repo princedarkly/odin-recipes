@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oyako {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+button {
+    background-color: red;
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+.don {
+    height: 450px;
+    width: auto;
+}
+
+.itta {
+    height: 300px;
+    width: auto;
+}
