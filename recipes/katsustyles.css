@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.katsu {
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+button {
+    background-color: blue;
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+.itta {
+    height: 300px;
+    width: auto;
+}
+
+.don {
+    width: 550px;
+    height: auto;
+}
