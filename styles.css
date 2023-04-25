@@ -10,3 +10,19 @@ h3 {
 .tori {
     color: rgb(231, 118, 12)
 }
+
+.gyu {
+    color: rgb(151, 0, 151)
+}
+
+.katsu {
+    color: blue
+}
+
+.oyako {
+    color: red
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
